@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="str_pause">PAUSE</string>
+    <string name="str_playing">Playing</string>
+    <string name="str_play">PLAY</string>
+    <string name="str_paused">Paused</string>
+    <string name="str_stopped">Stopped</string>
+</resources>
